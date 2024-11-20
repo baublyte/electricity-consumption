@@ -1,0 +1,5 @@
+python=3.11.9
+pandas
+numpy
+plotly
+nbformat
